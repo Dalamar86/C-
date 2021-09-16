@@ -1,0 +1,14 @@
+
+Invoking autoreconf in build directory: C:/Users/Dalamar/Desktop/Minesweeper/Testing1/
+
+
+Configuration failed with error
+(Cannot run program "sh" (in directory "C:\Users\Dalamar\Desktop\Minesweeper\Testing1"): CreateProcess error=2, The system cannot find the file specified)Build stopped
+()
+**** Build of configuration Debug for project minesweeper other ****
+
+Nothing to build for project minesweeper other
+
+**** Build of configuration Debug for project minesweeper other ****
+
+Nothing to build for project minesweeper other
